@@ -6,5 +6,7 @@
 <li>Format Specifier.</li>
 <li>Memory Size in Byte Including Modifiers.</li>
 <ul>
-* Character.
-* Integer.
+<ul>
+  * Character.
+  * Integer.
+<ul>
