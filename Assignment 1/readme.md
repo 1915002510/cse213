@@ -1,11 +1,11 @@
-* * Size of Charactere Data Types :
+* Size of Charactere Data Types :
 
 * Size of Char                    : 1 
 * Size of Signed Char             : 1 
 * Size of Unsigned Char           : 1 
 
 
-** Size of Integer Data Types :
+* Size of Integer Data Types :
 
 * Size of Int                    : 4 
 * Size of Short Int              : 2
