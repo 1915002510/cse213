@@ -1,4 +1,4 @@
-* Size of Charactere Data Types :
+1. Size of Charactere Data Types :
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-* Size of Integer Data Types :
+2. Size of Integer Data Types :
 
 
 
