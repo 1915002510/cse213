@@ -1,4 +1,4 @@
-# [0. List all Character and integer Data Types Name, Format Specified and Memory Size in Byte including Modifiers.](https://github.com/1915002510/cse213/blob/main/Assignment%201/0.c)
+### [0. List all Character and integer Data Types Name, Format Specified and Memory Size in Byte including Modifiers.](https://github.com/1915002510/cse213/blob/main/Assignment%201/0.c)
 
 1. Size of Charactere Data Types :
 
